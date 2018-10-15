@@ -1,0 +1,20 @@
+{
+    "name": "tijmen-wierenga/bogus-fixtures-bundle",
+    "description": "A Symfony bundle for creating dummy data fixtures through Bogus",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tijmen Wierenga",
+            "email": "t.wierenga@live.nl"
+        }
+    ],
+    "require": {
+        "tijmen-wierenga/bogus": "dev-release/2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TijmenWierenga\\Bundle\\BogusFixturesBundle\\": "src/"
+        }
+    }
+}

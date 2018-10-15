@@ -1,0 +1,7 @@
+services:
+  _instanceof:
+    TijmenWierenga\Bogus\Factory\Factory:
+      tags: ['bogus_fixtures.factory']
+
+  TijmenWierenga\Bogus\Fixtures:
+    public: true
