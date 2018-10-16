@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "tijmen-wierenga/bogus": "dev-release/2.0"
+        "tijmen-wierenga/bogus": "^1.0.0-alpha"
     },
     "autoload": {
         "psr-4": {
