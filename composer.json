@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "tijmen-wierenga/bogus": "^1.0.0-alpha"
+        "tijmen-wierenga/bogus": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
